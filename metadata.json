@@ -1,0 +1,5 @@
+{
+  "name": "FidgiPop Profit Calculator",
+  "description": "A calculator for the FidgiPop fidget business to determine profits after considering supplier costs (COGS), shipping, and income tax.",
+  "requestFramePermissions": []
+}
